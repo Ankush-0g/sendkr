@@ -1,0 +1,6 @@
+{
+  "name": "SendKR",
+  "description": "Fast, secure, and modern file sharing platform for instant transfers using QR codes or 6-digit keys.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
